@@ -2,9 +2,6 @@ sssss
 
 modify
 
-<<<<<<< HEAD
 ssdkld;sssddss
 Mon Jan  4 21:13:16 PST 2016
-=======
 ssdkld;sssddss
->>>>>>> 65c0c1f9ed3003afe4774d990f60994b93ce12b0
